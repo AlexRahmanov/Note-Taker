@@ -36,3 +36,5 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 # Deployed Link
 Note Taker is also available on Heroku through this [live link](https://morning-sea-39779.herokuapp.com/).
+
+# Mock-Up
